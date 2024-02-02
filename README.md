@@ -1,1 +1,1 @@
-# jsgenerator
+[link](./note.md)
